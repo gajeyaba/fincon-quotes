@@ -9,6 +9,8 @@ Automated public price feeds for Scottish Widows Workplace Pension funds and cus
 | Polar Capital Global Technology Fund | `IE00B42W4J83` | **GBP** | [Polar_Capital_Global_Technology_Fund_IE00B42W4J83.html](https://raw.githubusercontent.com/gajeyaba/fincon-quotes/main/Polar_Capital_Global_Technology_Fund_IE00B42W4J83.html) |
 | SW Pension Portfolio One CS2 - Adventurous | `GB00BKYRZH84` | **GBX** | [SW_Pension_Portfolio_One_CS2_Adventurous_GB00BKYRZH84.html](https://raw.githubusercontent.com/gajeyaba/fincon-quotes/main/SW_Pension_Portfolio_One_CS2_Adventurous_GB00BKYRZH84.html) |
 | SW Pension Portfolio Two CS2 - Balanced | `GB00BKYRZJ09` | **GBX** | [SW_Pension_Portfolio_Two_CS2_Balanced_GB00BKYRZJ09.html](https://raw.githubusercontent.com/gajeyaba/fincon-quotes/main/SW_Pension_Portfolio_Two_CS2_Balanced_GB00BKYRZJ09.html) |
+| HSBC Global Corporate Bond UCITS ETF | `IE00BGWL6L53` | **GBP** | [HSBC_Global_Corporate_Bond_UCITS_ETF_IE00BGWL6L53.html](https://raw.githubusercontent.com/gajeyaba/fincon-quotes/main/HSBC_Global_Corporate_Bond_UCITS_ETF_IE00BGWL6L53.html) |
+| Royal London Corporate Bond | `GB00BN13X436` | **GBP** | [Royal_London_Corporate_Bond_GB00BN13X436.html](https://raw.githubusercontent.com/gajeyaba/fincon-quotes/main/Royal_London_Corporate_Bond_GB00BN13X436.html) |
 
 > [!NOTE]
 > **Currency Denomination (GBX vs GBP):**
